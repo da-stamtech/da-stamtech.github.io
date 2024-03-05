@@ -1,11 +1,11 @@
 {
-        "Alive": "1",
-        "Injured": "1",
-        "Dead": "1",
-        "Panicked": "1",
-        "RemainingTime": "1.0",
-        "IsInGame": "false",
-        "IsBlocked": "false",
-        "ActivePlayers": "1",
-        "CitizenChecked": "1"
-    }
+    "Alive": 0,
+    "Injured": 0,
+    "Dead": 0,
+    "Panicked": 0,
+    "RemainingTime": 0.0,
+    "IsInGame": false,
+    "IsBlocked": false,
+    "ActivePlayers": 0,
+    "CitizenChecked": 0
+}
