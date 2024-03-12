@@ -4,7 +4,7 @@
     "Dead": 0,
     "Panicked": 0,
     "RemainingTime": 0.0,
-    "IsInGame": true,
+    "IsInGame": false,
     "IsBlocked": false,
     "ActivePlayers": 0,
     "CitizenChecked": 0
