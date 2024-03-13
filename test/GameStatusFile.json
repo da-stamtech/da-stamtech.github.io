@@ -3,8 +3,8 @@
     "Injured": 0,
     "Dead": 0,
     "Panicked": 0,
-    "RemainingTime": 0.0,
-    "IsInGame": false,
+    "RemainingTime": 1.0166664123535157,
+    "IsInGame": true,
     "IsBlocked": false,
     "ActivePlayers": 0,
     "CitizenChecked": 0
