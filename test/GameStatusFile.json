@@ -1,10 +1,10 @@
 {
-    "Alive": 18,
-    "Injured": 0,
-    "Dead": 0,
-    "Panicked": 0,
-    "RemainingTime": 1.0166664123535157,
-    "IsInGame": true,
+    "Alive": 2,
+    "Injured": 2,
+    "Dead": 11,
+    "Panicked": 2,
+    "RemainingTime": 0.0,
+    "IsInGame": false,
     "IsBlocked": false,
     "ActivePlayers": 1,
     "CitizenChecked": 0
