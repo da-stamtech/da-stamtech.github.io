@@ -1,8 +1,8 @@
 {
-    "Alive": 5927,
+    "Alive": 5824,
     "Injured": 137,
     "Dead": 65,
-    "Panicked": 510,
+    "Panicked": 407,
     "RemainingTime": 1.0166664123535157,
     "IsInGame": false,
     "IsBlocked": false,
